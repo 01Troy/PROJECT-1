@@ -65,7 +65,7 @@ The correlations between production budget, profit and ROI, and runtime and rati
 
 
 
-#### Conclusion
+### Conclusion
 
 The movie production industry is a profitable industry. Everything held constant, Microsoft is likely to generate good profits if it goes ahead with its investment plan.
 
